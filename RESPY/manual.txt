@@ -1,0 +1,84 @@
+RESPY  v1.0
+
+By: Nicholas McHardy
+
+
+
+Contents:
+
+1	 Play the game
+1.1	 Windows 3.x
+1.2	 Windows 95
+1.3	 MS-Dos
+
+2	 Install the game
+2.1	Windows 3.x
+2.2	Windows 95
+2.3	MS-Dos
+
+3	Playing the game
+3.1	Moving the character
+3.2	Start / Exit
+3.3	Secret Level Select
+
+4 	Trouble Shooting
+4.1	Frequently asked questions (FAQ)
+
+5	Other
+5.1	Credits
+5.2	Contact info	
+
+
+
+
+
+
+
+(c) Nicholas McHardy 4th April 1997 - RESPY v 1.0
+1.1	To run the game in Windows 3.x, put the disk in, open the program manager (if it is not all ready open) and click on `file' and drag down to run.  In the box that comes up type "x:\respy" (where x is your floppy drive where the disk is) and press <enter>.  Set up your video and sound card settings and then you are ready to play.
+
+1.2	To run the game in Windows 95, put the disk in, and click on `start' then `run'.  Type "x:\respy" (where x is your floppy drive where the disk is) and press <enter>.  Set up your video and sound card settings and then you are ready to play.
+
+1.3	To run the game in Dos, put the disk in the floppy drive and at the prompt type "x:" where `x' is the floppy drive you put the disk in.  Next type "respy" and set up your video and sound card settings and then you are ready to play.
+
+	NOTE: If you want to keep the same settings, make sure the small `lift' on the back of the disk is covering the hole to disable write protect.
+
+2.1	To install the game in Windows 3.x, put the disk in and open File Manager.  click on your floppy drive icon, where the disk is, then select in the directories column `x:\' (where x is the floppy dive letter) and then press F8.  type in the second box your destination, e.g: x:\XLAB\RESPY, and press OK.  If it prompts you for the directory not existing then just press OK to create one.  Next in the Prgram Manager make a group or use an existing one to put a new icon in by selecting new from the file menu.  You want a new icon not a new group.  Type in the name, and where you installed it to, e.g: `Respy v1.0', `x:\xlab\respy\respy.exe'
+When you are done you can select an icon, there is one provided for you, it is `respy.ico'. Then you may press OK.
+
+2.2	Windows 95 Installation.  Put the disk in and go to `MY COMPUTER' on the desktop.  This may have been renamed to something else, but you should know what it would have been renamed to.  Double click on the drive where the disk is, and select all the files.  Go up the the `edit' menu and click on `copy'.  Press the folder back button and go to your hard drive.  Click the right mouse button and select new folder, enter the name you want, then double click on it and click on `paste' in the `edit' menu.  For an icon, drag the `respy' file (the icon should be a blue box a bit like a window) to the `Start' button.  You are done!
+
+2.3	Dos installation.  Put the disk in and on your hard drive prompt type `md <the directory you want it to be put in e.g: respy>'.  Now go to your floppy prompt, e.g: 'a:\>', and type `copy *.* x:\y' (where x = hard drive letter and y = the directory you typed before).  Now switch back to your hard drive (e.g: `c:') and type `cd <the directory you selected>' then type `respy' and you are ready to play!
+
+3.1	To move the purple smiley character around, use the arrow keys.
+
+3.2	The start and exit of each level have a flashing sign.
+
+3.3	The secret level select is here in these levels:
+		1 = persons' right hand.
+		2 = persons' left hand.
+		3 = To the right of the start.
+		4 = second from the top right hand corner in the heart.
+
+4.1	Frequently asked questions:
+		Q- My sound card does not work.
+			A- Make sure the speakers are plugged in and turned 	on.
+		Q- I sometimes move somewhere and the picture goes all blue and black.
+			A- Reinstall it, or get a new disk from us.
+		Q- The disk won't work, it gives me a message about bad disk or faulty.
+			A- It says what it is.  Test another disk, same problem, 			get a new drive, or not then get a new disk from us.
+
+
+5.1	Credits
+		Every thing - Nicholas McHardy (except the music!!!)
+		Thanks to - XLAB Computer Co. and NIX Disk Label Co.
+
+5.2	Contact info
+
+	XLAB Computer Company
+	924 East Kurrajong Road
+	East Kurrajong 2758
+
+	NIX Co.
+	924 East Kurrajong Road
+	East Kurrajong 2758
