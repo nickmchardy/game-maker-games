@@ -1,4 +1,4 @@
-# game-maker-games
+# Game-Maker Games from my collection
 
 A small collection of Game-Maker games which I made in the mid 90's. Game-Maker was a DOS game engine which allowed novices such as myself to build simple games.
 
