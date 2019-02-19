@@ -25,3 +25,7 @@ A game about respiration, made in 1997 for a Year 8 school project. May contain 
 ## To run
 
 The original Game-Maker for DOS source is available: https://github.com/gandrewstone/GameMaker
+
+## Want more info?
+
+Have a look at [The Game-Maker Archive](http://www.aderack.com/game-maker/index.php?title=Game-Maker).
